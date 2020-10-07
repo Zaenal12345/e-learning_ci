@@ -62,7 +62,7 @@
                             <div class="single-footer-caption mb-30">
                                 <!-- logo -->
                                 <div class="footer-logo mb-25">
-                                    <a href="index.html"><img src="<?= base_url('project/1.png')?>" alt="" width="70" alt=""> <span style="font-weight: bold;font-size: 20px">E-Learning</span></a>
+                                    <a href="index.html"><img src="<?= base_url('project/1.png')?>" alt="" width="70" alt=""> <span style="font-weight: bold;font-size: 20px">Menang PTN</span></a>
                                 </div>
                                 <div class="footer-tittle">
                                     <div class="footer-pera">
